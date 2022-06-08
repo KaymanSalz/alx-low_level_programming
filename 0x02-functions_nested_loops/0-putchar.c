@@ -1,7 +1,7 @@
-#include<main.h>
+#include "main.h"
 /**
- * main -  prints putchr, followed by a new line
- *Return: Always 0 (Success)
+ * main -  entry point
+ *Return: 0 (Success)
  */
 
 int main(void)
@@ -13,6 +13,6 @@ int main(void)
 	{
 		_putchar(x[i]);
 	}
-		_putchar("\n")
+	_putchar("\n")
 	return (0);
 }
