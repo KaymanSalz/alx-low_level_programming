@@ -1,4 +1,7 @@
-int _putchar(char c);
+#ifndef _main_h_
+#define _main_h_
+
+int _putchar(char);
 void print_alphabet(void);
 void print_alphabet_x10(void);
 int _islower(int c);
@@ -11,3 +14,15 @@ void times_table(void);
 int add(int, int);
 void print_to_98(int n);
 void print_times_table(int n);
+
+#endif
+/* 10 */
+int add(int, int);
+
+/* 11 */
+void print_to_98(int n);
+
+/* 12 */
+void print_times_table(int n);
+
+#endif /* HOLBERTON_H */
