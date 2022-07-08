@@ -1,1 +1,1 @@
-readme for variadic functions
+more on variadic_functions
