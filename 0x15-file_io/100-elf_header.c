@@ -8,7 +8,7 @@
 
 /**
  * print_addr - prints address
- * @ptr: magic. kamal
+ * @ptr: magic. 
  * Return: no return.
  */
 void print_addr(char *ptr)
@@ -200,7 +200,7 @@ int check_elf(char *ptr)
 }
 
 /**
- * main - check the code for Holberton School students.
+ * main - check the code for Alx School students.
  * @argc: number of arguments.
  * @argv: arguments vector.
  * Return: Always 0.
