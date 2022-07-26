@@ -8,7 +8,7 @@
 
 /**
  * print_addr - prints address
- * @ptr: magic.
+ * @ptr: magic. kamal
  * Return: no return.
  */
 void print_addr(char *ptr)
